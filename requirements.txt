@@ -1,1 +1,1 @@
-bibliotecas Python
+telethon
