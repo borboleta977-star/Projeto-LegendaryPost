@@ -6,9 +6,9 @@ import os
 
 # === Configurações ===
 
-api_id = 26905198
+api_id = 7981034987
 api_hash = 'f33777d7b5da3287c98f49bb543f710f'
-bot_token = '7375399221:AAEARKCF1ere2oddf59eWueW27F_HDTMk8U'
+bot_token = '7651405515:AAFPOhBwCUCnLoTrc8VuCm3dQz6TQ5L1Gmk'
 OWNER_ID = '8101376518'
 
 ADMINS_FILE = 'admins.json'
