@@ -1,1 +1,1 @@
-instrução para o Render rodar o bot
+worker: python bot.py
