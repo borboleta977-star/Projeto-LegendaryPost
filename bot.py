@@ -6,8 +6,8 @@ import os
 
 # === Configurações ===
 
-api_id = 7981034987
-api_hash = 'f33777d7b5da3287c98f49bb543f710f'
+api_id = 26182047
+api_hash = 'f598f0da3d823ef42823b1b188182cef'
 bot_token = '7651405515:AAFPOhBwCUCnLoTrc8VuCm3dQz6TQ5L1Gmk'
 OWNER_ID = '7981034987'
 
